@@ -21,4 +21,16 @@ This project provides a comprehensive data analysis of a global supply chain net
 * **Data Modeling:** Implemented a **Star Schema** connecting a central Fact Table (`Order_Transactions`) to several Dimension Tables (`Product`, `Customer`, `Location`, `Department`, and `Calendar`).
 
 ## 💡 Key Insights
-1. **Operational Lag:** The actual average delivery time is **7 days**, exceeding the target of **4 days**
+1. **Operational Lag:** The actual average delivery time is **7 days**, exceeding the target of **4 days** by 75%.
+2. **The Shipping Paradox:** AI insights revealed that **'First Class'** shipping, meant for speed, actually increases late delivery probability by **1.8x**.
+3. **Regional Hotspots:** **Western Europe and Central America** were identified as "High-Risk" zones where high sales volume coincides with peak delay rates.
+4. **Profit Protection:** The **Consumer segment** drives 50% of revenue, but high-value Technology orders are suffering from profit erosion due to shipping variances.
+
+## 🚀 Conclusion & Recommendations
+* **Logistics Optimization:** Re-evaluate carrier contracts for 'First Class' routes in high-risk regions.
+* **Real-Time Monitoring:** Transition from manual reporting to this automated dashboard to close the "Visibility Gap."
+* **Proactive Alerts:** Implement an alert system for orders falling into "High-Risk" categories identified by the AI influencers.
+
+---
+**Author:** [Agalya J]  
+**Tools Used:** Excel, Power BI, DAX, Power Query
