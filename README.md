@@ -25,7 +25,9 @@ This project provides a comprehensive data analysis of a global supply chain net
 2. **The Shipping Paradox:** AI insights revealed that **'First Class'** shipping, meant for speed, actually increases late delivery probability by **1.8x**.
 3. **Regional Hotspots:** **Western Europe and Central America** were identified as "High-Risk" zones where high sales volume coincides with peak delay rates.
 4. **Profit Protection:** The **Consumer segment** drives 50% of revenue, but high-value Technology orders are suffering from profit erosion due to shipping variances.
-
+![Overview](Supplychain%20Overview.png)
+![Strategic](Strategic%20AI%20Insights.png)
+![Operational](Operational%20dashboard.png)
 ## 🚀 Conclusion & Recommendations
 * **Logistics Optimization:** Re-evaluate carrier contracts for 'First Class' routes in high-risk regions.
 * **Real-Time Monitoring:** Transition from manual reporting to this automated dashboard to close the "Visibility Gap."
